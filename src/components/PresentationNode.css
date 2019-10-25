@@ -55,7 +55,7 @@
 .presentation-node .list.primary li {
   height: 72px;
   margin: 0 3px 3px 0;
-  flex-basis: calc(100% / 3 - 1px);
+  flex: 1;
 }
 
 .presentation-node .list.primary li:last-child {
